@@ -1,7 +1,7 @@
 # Timer-System
 A Timer System I made for Unity
 
-I made this system because I hated creatng multple variables and loops in my code just to run a simple line or function after a desired time.
+I made this system because I hated creating multple variables and loops in my code just to run a simple line or function after a desired time.
 This Timer system helps out with that
 
 
